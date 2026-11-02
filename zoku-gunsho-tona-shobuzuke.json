@@ -1450,6 +1450,10 @@
    "dai": "持"
   }
  ],
+ "translation": {
+  "count": 14,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-tona-shobuzuke",
   "work": "頓阿勝負付歌合",
@@ -1462,7 +1466,7 @@
   "blocks": 14,
   "chars": 2965,
   "poems": 90,
-  "yaku": 0,
+  "yaku": 14,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T11:41:39+09:00"
